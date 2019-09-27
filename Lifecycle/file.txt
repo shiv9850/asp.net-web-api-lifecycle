@@ -1,0 +1,14 @@
+
+2019-09-28 04:39:52.7755|INFO|Lifecycle.Handlers.CustomHandler|1 : 
+2019-09-28 04:39:52.9086|INFO|Lifecycle.Controllers.ValuesController|1 : OK 
+
+2019-09-28 04:40:41.4904|INFO|Lifecycle.Handlers.CustomHandler|2 : 
+2019-09-28 04:40:41.5044|INFO|Lifecycle.Handlers.PerRouteHandler|1 : PerRouteHandler 
+
+2019-09-28 04:40:41.5244|INFO|Lifecycle.Handlers.CustomControllerSelector|1 : in custom controller selector 
+
+2019-09-28 04:40:41.5244|INFO|Lifecycle.Controllers.PerRouteController|1 : Get1 
+
+2019-09-28 04:49:30.5717|INFO|Lifecycle.Handlers.CustomHandler|1 : 
+2019-09-28 04:49:30.7228|INFO|Lifecycle.Controllers.ValuesController|1 : OK 
+
